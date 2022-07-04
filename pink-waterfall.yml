@@ -1,0 +1,16 @@
+colors:
+
+  primary:
+    background: '#080808'
+    foreground: '#080808'
+
+  cursor:
+    text: '#edcce9'
+    cursor: '#6d07db'
+
+  normal:
+    yellow: '#edb9d7'
+    blue: '#f086c2'
+    green: '#ecc9dd'
+    cyan: '#CC81B2'
+    red: '#D327B6'
